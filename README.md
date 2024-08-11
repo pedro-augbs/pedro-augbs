@@ -21,9 +21,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pedro-augbs/pedro-augbs/output/snake.svg" alt="Snake animation" />
-
-###
