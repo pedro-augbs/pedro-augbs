@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS"/>
 </div>
 
 <br/>
@@ -52,9 +54,6 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
 </div>
 
 <br/>
@@ -62,8 +61,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-augbs&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-augbs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-augbs&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-augbs&layout=compact&langs_count=6&theme=dracula&hide_border=false&hide=html,css" height="150" alt="Top languages"/>
 </div>
 
 <br/>
